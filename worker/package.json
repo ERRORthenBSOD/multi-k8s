@@ -1,0 +1,14 @@
+{
+  "name": "complexDocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "*",
+    "redis": "*"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  }
+}
